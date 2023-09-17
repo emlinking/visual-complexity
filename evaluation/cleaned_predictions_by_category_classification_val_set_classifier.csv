@@ -1,0 +1,81 @@
+COCO Object Category,complex_captions,noncomplex_captions
+person,1527,1399
+bicycle,134,56
+car,370,130
+motorcycle,162,28
+airplane,2,178
+bus,152,18
+train,105,50
+truck,147,49
+boat,50,125
+traffic light,95,40
+fire hydrant,51,29
+stop sign,48,22
+parking meter,11,4
+bench,170,100
+bird,26,99
+cat,41,119
+dog,70,85
+horse,57,43
+sheep,13,47
+cow,28,27
+elephant,26,34
+bear,34,41
+zebra,22,43
+giraffe,71,19
+backpack,188,127
+umbrella,135,70
+handbag,266,69
+tie,72,78
+suitcase,19,26
+frisbee,54,41
+skis,12,213
+snowboard,7,113
+sports ball,52,33
+kite,7,168
+baseball bat,98,22
+baseball glove,67,23
+skateboard,34,101
+surfboard,12,248
+tennis racket,42,28
+bottle,245,80
+wine glass,73,2
+cup,331,54
+fork,179,1
+knife,158,17
+spoon,104,6
+bowl,301,24
+banana,176,14
+apple,104,6
+sandwich,89,1
+orange,142,3
+broccoli,166,4
+carrot,122,3
+hot dog,60,0
+pizza,184,1
+donut,37,8
+cake,88,7
+chair,410,105
+couch,72,43
+potted plant,121,54
+bed,5,60
+dining table,467,38
+toilet,12,178
+tv,65,35
+laptop,49,26
+mouse,35,20
+remote,27,38
+keyboard,41,24
+cell phone,153,62
+microwave,17,13
+oven,54,26
+toaster,1,4
+sink,45,145
+refrigerator,27,13
+book,107,48
+clock,68,67
+vase,87,43
+scissors,12,13
+teddy bear,64,31
+hair drier,0,5
+toothbrush,0,30

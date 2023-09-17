@@ -1,0 +1,12 @@
+,complex_train_captions,noncomplex_train_captions,complex_val_captions,noncomplex_val_captions,complex_test_captions,noncomplex_test_captions
+vehicle,16808,11748,781,525,776,476
+outdoor,8075,3673,330,175,340,165
+animal,8860,12163,355,525,375,516
+accessory,13200,6817,565,250,610,250
+sports,6466,17956,300,880,265,730
+kitchen,15976,3137,705,110,760,150
+food,16792,1521,770,70,761,90
+furniture,18321,8785,740,360,795,476
+electronic,5282,2897,265,180,265,155
+appliance,2111,3527,110,170,100,155
+indoor,7773,4821,310,175,376,200
